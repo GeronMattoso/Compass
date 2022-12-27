@@ -1,0 +1,1 @@
+Os scripts .py e iynb são exatamente o utilizados nos jobs do Glue.
